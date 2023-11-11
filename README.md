@@ -1,2 +1,2 @@
-# gt-study.github.io
-Website to describe the study performed by the GT group in CS 8803
+# What did I just click on?
+This ad is being ran as part of a study out of the Georgia Institute of Technlogy. 
