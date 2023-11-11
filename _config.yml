@@ -1,5 +1,5 @@
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme 
-title: What did I just click on?
-description: This ad is being ran by students performing a study at the Georgia Institute of Technology.
+- jekyll-remote-theme
+title: [What did I just click on?]
+description: [Hello! This ad is being ran as part of a study out of the Georgia Institute of Technology. This study is meant to examine bias in FaceBook's advertising algorithm.]
