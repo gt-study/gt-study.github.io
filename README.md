@@ -3,4 +3,4 @@ This ad is being run as part of a study out of the Georgia Institute of Technolo
 
 [Design and Development](https://github.com/gt-study/gt-study.github.io/blob/main/ad.png)
 This study is in particular a *reproducibility study*: a study intended to reproduce (or see if it doesn't reproduce) findings of a previous study. We base our work on the [linked study](https://website-name.com) out of Northeastern.
-[<img src='https://github.com/gt-study/gt-study.github.io/blob/main/ad.png' alt='github' height='40'>]
+[<img src='https://github.com/gt-study/gt-study.github.io/blob/main/ad.png' alt='github' height='120'>]
